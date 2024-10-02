@@ -1,6 +1,6 @@
 # 💫 About Me:
 ♟️ I write code <br>
-🔭 I'm currently working on java based project <br>
+🔭 Currently trying somehing new<br>
 
 
 ## 🌐 Socials:

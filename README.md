@@ -15,20 +15,20 @@
 
 <br/>
 
-<!-- Stats Grid - Using pure Markdown to fix the "Link Text" glitch -->
+<!-- Stats & Languages (Side by Side for the clean look) -->
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakkitha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakkitha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="languages graph" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakkitha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true) 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakkitha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Lakkitha&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
+<!-- Streak Stats (Centered below) -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakkitha&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="streak graph" />
 </div>
 
 <br/>
 
-<!-- Snake Animation - Switched to the DARK version -->
+<!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lakkitha/Lakkitha/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>

@@ -15,13 +15,16 @@
 
 <br/>
 
-<!-- Stats & Languages (Side by Side for the clean look) -->
+<!-- 
+HIDDEN SECTIONS (Uncomment to try again later)
+These were failing to load and showing as blue text links.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lakkitha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" height="170" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakkitha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="languages graph" />
 </div>
+-->
 
-<!-- Streak Stats (Centered below) -->
+<!-- Streak Stats (This one works!) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakkitha&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="streak graph" />
 </div>

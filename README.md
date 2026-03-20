@@ -24,10 +24,11 @@ These were failing to load and showing as blue text links.
 </div>
 -->
 
-<!-- Streak Stats (This one works!) -->
+<!-- Streak Stats (This one works!)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakkitha&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="streak graph" />
 </div>
+ -->
 
 <br/>
 
